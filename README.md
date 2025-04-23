@@ -6,3 +6,10 @@ GPU TUTORIAL
 
 ```unzip gpu.zip```
 
+```nano .env``` enter your referral code 
+
+```nano privateKeys.txt```
+
+```node main```
+
+Join Telegram:- https://t.me/forestarmy 
